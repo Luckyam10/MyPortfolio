@@ -1,2 +1,4 @@
-# MyPortfolio
-An interactive 3D portfolio of Lucky Amores, a Computer Science student at National University Laguna. Scroll through a misty fantasy landscape to explore projects in AI security, chatbots, web development and backend systems.
+# Lucky Amores — Cinematic Fantasy 3D Portfolio
+A scroll-driven journey down a misty valley road toward a white citadel on a mountain, built procedurally in Three.js (terrain, forests, ruins, sky shader, mist).
+Run: `npm install && npm run dev`. Build: `npm run build`.
+All text, links and skills live in `src/data.js`. Set your email and LinkedIn there, and confirm the Restaurant Website details.
